@@ -1,0 +1,5 @@
+2024-12-27 09:10:04 - Account: 12234567, Type: Transfer Out, Amount: 100.0, New Balance: 750.0
+2024-12-27 09:22:23 - Account: 123, Type: Deposit, Amount: 10000.0, New Balance: 10000.0
+2024-12-27 09:22:44 - Account: 123, Type: Transfer Out, Amount: 5000.0, New Balance: 5000.0
+2024-12-27 09:22:57 - Account: 123, Type: Withdraw, Amount: 0.0, New Balance: 5000.0
+2024-12-27 09:23:05 - Account: 123, Type: Withdraw, Amount: 200.0, New Balance: 4800.0
